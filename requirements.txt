@@ -1,0 +1,9 @@
+requests
+python-dotenv
+langchain
+langgraph
+fastapi
+uvicorn[standard]
+pydantic
+gradio
+httpx
